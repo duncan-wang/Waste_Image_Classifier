@@ -1,4 +1,4 @@
-# Waste_Image_Classifier
+# Waste Image Classifier
 
 **Contributors: Jake Hogan, Sophie Courtemanche-Martel, Arnaud Guzman-Annes, Duncan Wang**
 
